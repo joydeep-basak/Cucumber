@@ -1,6 +1,6 @@
 Feature: Belly
 
-	@smoketest @regressiontest
+	@regressiontest
   Scenario: a few cukes
     Given I have 42 cukes in my belly
     When I wait 10 hour
